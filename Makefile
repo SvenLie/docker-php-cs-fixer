@@ -28,7 +28,7 @@ TAG = latest
 # Makefile.docker overwrites
 NAME       = pcf
 VERSION    = latest
-IMAGE      = cytopia/php-cs-fixer
+IMAGE      = svenlie/php-cs-fixer
 FLAVOUR    = latest
 FILE       = Dockerfile.${FLAVOUR}
 DIR        = Dockerfiles
