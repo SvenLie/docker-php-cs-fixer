@@ -388,5 +388,3 @@ The provided Makefiles will only require GNU Make and Docker itself removing the
 
 
 **[MIT License](LICENSE)**
-
-Copyright (c) 2019 [cytopia](https://github.com/cytopia)
